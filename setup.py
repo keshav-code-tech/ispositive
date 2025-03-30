@@ -10,7 +10,7 @@ setup(
     description="A simple package to check if a number is positive.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ispositive",
+    url="https://github.com/keshav-code-tech/ispositive.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
